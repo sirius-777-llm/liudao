@@ -17,7 +17,7 @@ This skill provides access to the LiùDào family heritage and relationship data
 
 - **Database Path**: `/home/admin/.openclaw/workspace/liudao-bot/data/liudao.db`
 - **Core Scripts**: Located in `/home/admin/.openclaw/workspace/liudao-bot/`
-- **User Privacy**: For private entries (e.g., family members), ensure you pass the correct `viewer_id` (e.g., `5104087055` for Sirius Z).
+- **User Privacy**: For private entries (e.g., family members), ensure you pass the correct `viewer_id` (e.g., `1234567890` for the specific authorized user).
 
 ## Workflows
 

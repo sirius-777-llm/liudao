@@ -9,7 +9,7 @@ This table stores all entity information (both public historical figures and pri
 | Column Name       | Type      | Description                                                                 |
 |-------------------|-----------|-----------------------------------------------------------------------------|
 | `id`              | INTEGER   | Primary Key (Auto-increment)                                                |
-| `name`            | TEXT      | Unique name of the person (e.g., "康熙", "杭建")                            |
+| `name`            | TEXT      | Unique name of the person (e.g., "康熙", "李白")                            |
 | `relation`        | TEXT      | Short description or title (e.g., "清圣祖", "朋友")                         |
 | `linked_person`   | TEXT      | Legacy field for direct link (mostly unused now)                            |
 | `relations_json`  | TEXT      | JSON string containing structured relationships.                            |
